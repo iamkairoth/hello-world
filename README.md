@@ -4,7 +4,7 @@
 This project is a command-line interface (CLI) tool that demonstrates the classic "Hello, World" program in multiple programming languages. Written in Python, the tool orchestrates the execution of "Hello, World" programs in Python, C, Java, JavaScript, Ruby, Go, and Rust, displaying their outputs in the terminal. It automatically detects installed language runtimes and handles execution seamlessly, making it easy to compare how different languages print "Hello, World."
 
 ### Background
-This project marks a new beginning, blending my passion for coding and storytelling. "Hello, World" isn’t just a program—it’s my journey from rock bottom to rebirth, shared through code, poetry, and transformation. Join me on Substack, where I explore coding tutorials, poetry, personal growth, and more with 2 free posts and 1 paid deep dive each week. Subscribe to support this adventure and dive into sections like Code, Write, and Unravel: [https://iamkairoth.substack.com]!
+This project marks a new beginning, blending my passion for coding and storytelling. "Hello, World" isn’t just a program—it’s my journey from rock bottom to rebirth, shared through code, poetry, and transformation. Join me on Substack, where I explore coding tutorials, poetry, personal growth, and more with 2 free posts and 1 paid deep dive each week. Subscribe to support this adventure and dive into sections like Code, Write, and Unravel: https://iamkairoth.substack.com/p/hello-world
 
 ### How It Works
 The CLI is driven by a Python script (main.py) that:
